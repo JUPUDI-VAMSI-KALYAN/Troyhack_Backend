@@ -1,0 +1,9 @@
+fastapi==0.104.1
+uvicorn==0.23.2
+keras==2.14.0
+sklearn
+tensorflow
+neattext
+tqdm
+python-multipart
+image
